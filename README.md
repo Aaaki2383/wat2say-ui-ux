@@ -47,11 +47,8 @@ We developed high-fidelity mobile screens with a focus on usability, clarity, an
 
 The final designs were connected into an interactive prototype to demonstrate the intended user experience.
 
-## Final Design
-
-
-
-## Prototype
+## Final Design 
+Prototype
 
 Figma Prototype Link: https://www.figma.com/design/PWu37lkTLV6AGNj4TmeITK/Untitled?node-id=0-1&t=47hFjSAiQxRTw2x5-1
 
